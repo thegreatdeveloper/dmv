@@ -1,0 +1,32 @@
+{
+    "sales": [
+        {
+            "region": "North",
+            "salesperson": "John",
+            "product": "Product A",
+            "quantity": 100,
+            "revenue": 1000.0
+        },
+        {
+            "region": "South",
+            "salesperson": "Jane",
+            "product": "Product B",
+            "quantity": 200,
+            "revenue": 2000.0
+        },
+        {
+            "region": "East",
+            "salesperson": "Bob",
+            "product": "Product A",
+            "quantity": 300,
+            "revenue": 3000.0
+        },
+        {
+            "region": "West",
+            "salesperson": "Alice",
+            "product": "Product B",
+            "quantity": 400,
+            "revenue": 4000.0
+        }
+    ]
+}
